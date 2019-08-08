@@ -21,6 +21,9 @@ sudo apt-get install python3-pyqt5
 pyqtgraph获取：
 ```
 git clone https://github.com/pyqtgraph/pyqtgraph
+```
+然后进入到pyqtgraph文件夹中：
+```
 python setup.py install
 ```
 
