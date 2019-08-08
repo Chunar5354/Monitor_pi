@@ -30,9 +30,9 @@ python setup.py install
 
 ## 其它文件
 
-还需要额外安装一个树莓派的硬件操作库`wiringpi`
+- 还需要额外安装一个树莓派的硬件操作库`wiringpi`
 ```
 pip install wiringpi     // 有多版本python的话尝试: pip3 install wiringpi
 ```
 
-`config.py`与`ADS1256.py`为ADS1256硬件配置文件
+- `config.py`与`ADS1256.py`为ADS1256硬件配置文件
