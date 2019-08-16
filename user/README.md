@@ -40,8 +40,3 @@ pip install wiringpi     // 有多版本python的话尝试: pip3 install wiringp
 
 - `config.py`与`ADS1256.py`为ADS1256硬件配置文件
 
-## 服务器端
-
-服务器端接收数据并保存到名为`raspberrypi`的mysql数据库中
-
-服务器端具体内容见[py_db](https://github.com/Chunar5354/Monitor_pi/tree/master/py_db)文件夹
