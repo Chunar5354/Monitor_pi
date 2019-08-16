@@ -1,0 +1,6 @@
+CREATE DATABASE raspberrypi;
+CREATE TABLE raspberrypi.U (crt_time DATETIME(3), value FLOAT(6,2));
+CREATE TABLE raspberrypi.I (crt_time DATETIME(3), value FLOAT(6,2));
+CREATE TABLE raspberrypi.R (crt_time DATETIME(3), value FLOAT(6,2));
+CREATE TABLE raspberrypi.T (crt_time DATETIME(3), value FLOAT(6,2));
+CREATE TABLE raspberrypi.Vibration (crt_time DATETIME(3), value FLOAT(8,4));
