@@ -20,17 +20,20 @@ while True:
     print(conn, addr)
 
     while True:
-        data = conn.recv(1024)  # rceive 1024 bytes data as most
-        print(type(data))  # show the type of the data received
+        try:
+            data = conn.recv(1024)  # rceive 1024 bytes data as most
+            print(type(data))  # show the type of the data received
 
-        # Translate byte data into dictionary
-        data_dict = json.loads(data.decode())
+            # Translate byte data into dictionary
+            data_dict = json.loads(data.decode())
 
-        # insert data into database
-        mt.insert_data(data_dict)
+            # insert data into database
+            mt.insert_data(data_dict)
 
-        # check
-        print('recive:', data.decode())  # decode the data and print
-        conn.send(data.upper())  # send data back
+            # check
+            print('recive:', data.decode())  # decode the data and print
+            conn.send(data.upper())  # send data back
+        except:
+            print('data error')
 
     conn.close()
