@@ -1,6 +1,7 @@
 import socket
 import pymysql
 import json
+import struct
 from into_db import Motor
 
 # define connection parameters
@@ -21,7 +22,8 @@ while True:
 
     while True:
         try:
-            data = conn.recv(1024)  # rceive 1024 bytes data as most
+            length = struct.unpack('l', conn.recv(4))  # rceive the length of data
+            data = conn.recv(length[0])
             print(type(data))  # show the type of the data received
 
             # Translate byte data into dictionary

@@ -12,6 +12,7 @@ import time
 import wiringpi as wpi
 import json
 import socket
+import struct
 from iuv_get import Worker1
 from r_get import Worker2
 from t_get import Worker3
@@ -362,8 +363,9 @@ class TabDemo(QWidget):
             now_time = int(time.time())
             time_unix = self.timestamp_datatime(now_time)
             self.data_send["time"] = time_unix
-            msg = json.dumps(self.data_send)  # 将字典转化为json字符串
-            self.client.send(msg.encode('utf-8'))   # 发送一条信息 python3 只接收btye流
+            msg = json.dumps(self.data_send).encode('utf-8')  # 将字典转化为json字符串，再转换成字节串
+            
+            self.client.send(struct.pack('l', len(msg)) + msg)   # 发送4字节的数据长度+数据内容
             self.data_send = {"time":"no time", "order":["U", "I", "T", "R"], "id":"raspberrypi", "data":{}}  # 每次发送后重置字典
             self.sub_send = {}  # 发送后清空
 
