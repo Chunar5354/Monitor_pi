@@ -22,7 +22,7 @@ while True:
 
     while True:
         try:
-            length = struct.unpack('l', conn.recv(4))  # rceive the length of data
+            length = struct.unpack('i', conn.recv(4))  # rceive the length of data
             data = conn.recv(length[0])
             print(type(data))  # show the type of the data received
 

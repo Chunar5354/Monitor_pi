@@ -365,7 +365,7 @@ class TabDemo(QWidget):
             self.data_send["time"] = time_unix
             msg = json.dumps(self.data_send).encode('utf-8')  # 将字典转化为json字符串，再转换成字节串
             
-            self.client.send(struct.pack('l', len(msg)) + msg)   # 发送4字节的数据长度+数据内容
+            self.client.send(struct.pack('i', len(msg)) + msg)   # 发送2字节的数据长度+数据内容
             self.data_send = {"time":"no time", "order":["U", "I", "T", "R"], "id":"raspberrypi", "data":{}}  # 每次发送后重置字典
             self.sub_send = {}  # 发送后清空
 
