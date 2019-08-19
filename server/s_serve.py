@@ -20,6 +20,7 @@ class WSGIServer(object):
         self.server.listen(30)
         # instance a Motor object
         self.motor = Motor()
+        self.num = 0
 
     def get_data(self, conn, addr):
         """receive data and insert data into database"""
@@ -38,7 +39,14 @@ class WSGIServer(object):
                 print('recive:', data.decode())  # decode the data and print
                 conn.send(data.upper())  # send data back
             except:
-                print('data error')
+                if self.num < 20:
+                    self.num += 1
+                    print('data error')
+                else:
+                    print('connection over')
+                    self.num = 0
+                    conn.close()
+                    return
 
     def run(self):
         """get connected"""
@@ -52,11 +60,11 @@ class WSGIServer(object):
 
 
 def main(host, port):
-    wsgi_server = WSGIServer(port)
+    wsgi_server = WSGIServer(host, port)
     wsgi_server.run()
 
 
 if __name__ == '__main__':
     # set host and port
-    host, port = '172.17.52.39', 9876
+    host, port = '172.17.52.39', 30002
     main(host, port)
