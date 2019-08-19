@@ -5,9 +5,9 @@ from sql_helper import Helper
 class Motor():
     def __init__(self):
         # instance into_db object
-        self.db = Helper(host='192.168.43.169',
-                         user='Chunar',
-                         password='chun.0927',
+        self.db = Helper(host='',
+                         user='VentoAureo',
+                         password='GioGio114514',
                          database='raspberrypi',
                          port=3306)
         self.db.connect()
