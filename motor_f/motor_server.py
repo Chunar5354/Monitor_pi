@@ -36,17 +36,17 @@ class WSGIServer(object):
                     data = conn.recv(l)
                     data_all += data
                     l -= len(data)
-                    print(l)
 
                 # Translate bytes data into dictionary
                 data_dict = json.loads(data_all.decode('utf-8'))
 
                 # insert data into database
                 self.motor.insert_data(data_dict)
+                print('Inserted scuuessfully')
 
                 # check
-                print('recive:', data.decode())  # decode the data and print
-                conn.send(data.upper())  # send data back
+                # print('recive:', data.decode())  # decode the data and print
+                # conn.send(data.upper())  # send data back
             except:
                 if self.num < 20:
                     self.num += 1
