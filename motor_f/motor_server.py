@@ -75,5 +75,5 @@ def main(host, port):
 
 if __name__ == '__main__':
     # set host and port
-    host, port = '192.168.43.169', 9876
+    host, port = '172.17.52.39', 30002
     main(host, port)
