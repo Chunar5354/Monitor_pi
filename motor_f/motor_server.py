@@ -30,6 +30,7 @@ class WSGIServer(object):
                 length = struct.unpack('i', conn.recv(4))  # rceive the length of data
                 data_all = b''
                 l = length[0]
+                # l = 23948  # Sometimes data has a stable length
 
                 # get all of data
                 while l > 0: 
@@ -75,5 +76,5 @@ def main(host, port):
 
 if __name__ == '__main__':
     # set host and port
-    host, port = '144.202.113.175', 9200
+    host, port = '172.17.52.39', 30002
     main(host, port)

@@ -15,4 +15,4 @@ CREATE TABLE monitoring_Spike.406_temp_fore_bearing (create_time DATETIME(3), va
 CREATE TABLE monitoring_Spike.406_temp_rear_bearing (create_time DATETIME(3), value FLOAT(6,2));
 CREATE TABLE monitoring_Spike.406_temp_water (create_time DATETIME(3), value FLOAT(6,2));
 CREATE TABLE monitoring_Spike.406_temp_rotator (create_time DATETIME(3), value FLOAT(6,2));
-CREATE TABLE monitoring_Spike.406_rev (create_time DATETIME(3), value FLOAT(6,2));
+CREATE TABLE monitoring_Spike.406_rev (create_time DATETIME(3), value FLOAT(8,2));
