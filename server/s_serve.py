@@ -37,7 +37,7 @@ class WSGIServer(object):
 
                 # check
                 print('recive:', data.decode())  # decode the data and print
-                conn.send(data.upper())  # send data back
+                # conn.send(data.upper())  # send data back
             except:
                 if self.num < 20:
                     self.num += 1
@@ -66,5 +66,5 @@ def main(host, port):
 
 if __name__ == '__main__':
     # set host and port
-    host, port = '172.17.52.39', 30002
+    host, port = '192.168.43.169', 9876
     main(host, port)
