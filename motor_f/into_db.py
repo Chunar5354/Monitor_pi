@@ -8,7 +8,7 @@ class Motor():
         self.db = Helper(host='',
                          user='Chunar',
                          password='chun.0927',
-                         database='monitoring_Spike',
+                         database='monitoring_test',
                          port=3306)
         self.db.connect()
 
@@ -24,7 +24,7 @@ class Motor():
                 value_list = data_dict[sub_name].split('/')
 
                 for value in value_list:
-                    sql = "INSERT INTO monitoring_Spike.{}(create_time, value) VALUES('{}', '{}')"\
+                    sql = "INSERT INTO monitoring_test.{}(create_time, value) VALUES('{}', '{}')"\
                         .format(table_name, create_time, value)
                     self.db.insert(sql)
 
