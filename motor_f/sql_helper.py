@@ -57,7 +57,7 @@ class Helper():
         count = 0
         try:
             count = self.cur.executemany(sql, datalist)
-            self.conn.commit
+            self.conn.commit()
         except Exceptioin as ex:
             print(ex)
 		
