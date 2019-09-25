@@ -50,6 +50,19 @@ class Helper():
 
         return dataall
 
+    def insert_many(self, sql, datalist):
+        '''
+	    插入大量数据
+	    '''
+        count = 0
+        try:
+            count = self.cur.executemany(sql, datalist)
+            self.conn.commit
+        except Exceptioin as ex:
+            print(ex)
+		
+        return count
+
     def __item(self, sql):
         '''
         执行增删改操作的内置函数

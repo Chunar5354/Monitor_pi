@@ -49,14 +49,11 @@ class WSGIServer(object):
                 # print('recive:', data.decode())  # decode the data and print
                 # conn.send(data.upper())  # send data back
             except:
-                if self.num < 20:
-                    self.num += 1
-                    print('data error')
-                else:
-                    print('connection over')
-                    self.num = 0
-                    conn.close()
-                    return
+                print('data error')
+                print('connection over')
+                self.num = 0
+                conn.close()
+                return
 
     def run(self):
         """get connected"""
@@ -76,5 +73,5 @@ def main(host, port):
 
 if __name__ == '__main__':
     # set host and port
-    host, port = '172.17.52.39', 30002
+    host, port = '172.26.106.61', 30102
     main(host, port)
