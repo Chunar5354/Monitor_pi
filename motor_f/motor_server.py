@@ -1,11 +1,14 @@
-    
+import sys   
 import socket
 import pymysql
 import json
 import struct
 import threading
 from into_db import Motor
+import logging
+import time
 
+logging.basicConfig(filename='motor.log', level=logging.DEBUG)
 
 class WSGIServer(object):
     def __init__(self, host, port):
@@ -43,14 +46,14 @@ class WSGIServer(object):
 
                 # insert data into database
                 self.motor.insert_data(data_dict)
-                print('Inserted scuuessfully')
+                #print('Inserted scuuessfully')
+                logging.info('Inserted successfully')
 
-                # check
-                # print('recive:', data.decode())  # decode the data and print
-                # conn.send(data.upper())  # send data back
             except:
-                print('data error')
-                print('connection over')
+                #print('data error')
+                #print('connection over')
+                logging.error('data error')
+                logging.warning('connecting over')
                 self.num = 0
                 conn.close()
                 return
@@ -59,7 +62,9 @@ class WSGIServer(object):
         """get connected"""
         while True:
             conn, addr = self.server.accept()
-            print("connected with: {}".format(addr))
+            #print("connected with: {}".format(addr))
+            t = time.localtime()
+            logging.info("At time {} connected with: {}".format(time.asctime(t), addr))
 
             # when a new socket is connected, start a new thread
             t1 = threading.Thread(target=self.get_data, args=(conn, addr))
@@ -67,8 +72,17 @@ class WSGIServer(object):
 
 
 def main(host, port):
+    fe = open('motor.log', 'a')
+
+    stderr = sys.stderr
+    stdout = sys.stdout
+    sys.stderr = fe
+    sys.stdout = fe
+
     wsgi_server = WSGIServer(host, port)
     wsgi_server.run()
+
+    fe.close()
 
 
 if __name__ == '__main__':

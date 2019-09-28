@@ -1,0 +1,207 @@
+INFO:root:connected with: ('219.217.152.100', 3464)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.152.100', 3547)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.152.100', 3558)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 3933)
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 4061)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 6244)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 11332)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 98, in <module>
+    main(host, port)
+  File "motor_server.py", line 91, in main
+    wsgi_server.run()
+  File "motor_server.py", line 73, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "motor_server.py", line 98, in <module>
+    main(host, port)
+  File "motor_server.py", line 91, in main
+    wsgi_server.run()
+  File "motor_server.py", line 73, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+INFO:root:connected with: ('219.217.154.102', 12330)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 92, in <module>
+    main(host, port)
+  File "motor_server.py", line 85, in main
+    wsgi_server.run()
+  File "motor_server.py", line 67, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+INFO:root:At time Sat Sep 28 13:52:28 2019 connected with: ('219.217.154.102', 12420)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 94, in <module>
+    main(host, port)
+  File "motor_server.py", line 86, in main
+    wsgi_server.run()
+  File "motor_server.py", line 67, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+INFO:root:At time Sat Sep 28 13:57:32 2019 connected with: ('219.217.154.102', 12508)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:At time Sat Sep 28 20:37:47 2019 connected with: ('219.217.154.102', 14683)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over

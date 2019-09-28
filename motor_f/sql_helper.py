@@ -1,4 +1,7 @@
 import pymysql
+import logging
+
+logging.basicConfig(filename='motor.log', level=logging.DEBUG)
 
 
 class Helper():
@@ -46,7 +49,8 @@ class Helper():
             if count != 0:
                 dataall = self.cur.fetchall()
         except Exception as ex:
-            print(ex)
+            #print(ex, file='motor.log')
+            logging.error(ex)
 
         return dataall
 
@@ -59,9 +63,8 @@ class Helper():
             count = self.cur.executemany(sql, datalist)
             self.conn.commit()
         except Exceptioin as ex:
-            print(ex)
-		
-        return count
+            #print(ex, file='motor.log')
+            logging.error(ex)
 
     def __item(self, sql):
         '''
@@ -75,7 +78,9 @@ class Helper():
             count = self.cur.execute(sql)
             self.conn.commit()  # 增删改操作需要加一个commit
         except Exception as ex:
-            print(ex)
+            print(ex, file='motor.log')
+		
+        return count
 
         return count
 

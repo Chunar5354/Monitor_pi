@@ -1,6 +1,9 @@
 import pymysql
 from sql_helper import Helper
 import threading
+import logging
+
+logging.basicConfig(filename='motor.log', level=logging.DEBUG)
 
 
 class Motor():
@@ -13,6 +16,7 @@ class Motor():
                          port=30106)
         self.db.connect()
 
+    # reconnect to database
     def reconn_db(self):
         try:
             self.db.conn.ping()
@@ -20,6 +24,7 @@ class Motor():
             self.db.connect()
 
     def insert_data(self, data_dict):
+        self.reconn_db()
         # insert data into database
         try:
             serial_number = data_dict.pop('serial_number')
@@ -42,4 +47,4 @@ class Motor():
                 #    self.db.insert(sql)
 
         except:
-            print('no data')
+            logging.error('no data')
