@@ -3,7 +3,7 @@ from sql_helper import Helper
 import threading
 import logging
 
-logging.basicConfig(filename='motor.log', level=logging.DEBUG)
+logging.basicConfig(filename='/home/Chunar/codes/Monitor_pi/motor_f/motor.log', level=logging.DEBUG)
 
 
 class Motor():
