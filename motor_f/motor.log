@@ -350,3 +350,41 @@ INFO:root:Inserted scuuessfully
 INFO:root:Inserted scuuessfully
 ERROR:root:data error
 INFO:root:connection over
+INFO:root:At time Wed Oct  9 21:10:19 2019 connected with: ('219.217.152.100', 11982)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:17:56 2019 connected with: ('219.217.152.100', 12066)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:25:23 2019 connected with: ('219.217.152.100', 12149)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:28:05 2019 connected with: ('219.217.152.100', 12226)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:35:45 2019 connected with: ('219.217.152.100', 12438)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:54:31 2019 connected with: ('219.217.152.100', 12685)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
