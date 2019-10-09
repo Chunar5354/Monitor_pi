@@ -25,15 +25,16 @@ class WSGIServer(object):
         # instance a Motor object
         self.motor = Motor()
         self.num = 0
+        self.jud = True
 
     def get_data(self, conn, addr):
         """receive data and insert data into database"""
-        while True:
+        while self.jud:
             try:
-                length = struct.unpack('i', conn.recv(4))  # rceive the length of data
+                # length = struct.unpack('i', conn.recv(4))  # rceive the length of data
                 data_all = b''
-                l = length[0]
-                # l = 23948  # Sometimes data has a stable length
+                # l = length[0]
+                l = 23948  # Sometimes data has a stable length
 
                 # get all of data
                 while l > 0: 
@@ -56,7 +57,8 @@ class WSGIServer(object):
                 logging.warning('connecting over')
                 self.num = 0
                 conn.close()
-                return
+                #return
+                self.jud = False
 
     def run(self):
         """get connected"""
@@ -67,7 +69,7 @@ class WSGIServer(object):
             logging.info("At time {} connected with: {}".format(time.asctime(t), addr))
 
             # when a new socket is connected, start a new thread
-            t1 = threading.Thread(target=self.get_data, args=(conn, addr))
+            t1 = threading.Thread(target=self.get_data, args=(conn, addr), daemon=True)
             t1.start()
 
 
