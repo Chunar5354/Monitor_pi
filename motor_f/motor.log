@@ -289,3 +289,34 @@ INFO:root:Inserted scuuessfully
 INFO:root:Inserted scuuessfully
 ERROR:root:data error
 WARNING:root:connection over
+INFO:root:At time Wed Oct  9 14:18:24 2019 connected with: ('219.217.152.100', 9103)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 18:45:28 2019 connected with: ('219.217.152.100', 9899)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 18:46:18 2019 connected with: ('219.217.152.100', 9915)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 18:46:35 2019 connected with: ('219.217.152.100', 9925)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+ERROR:root:data error
+WARNING:root:connection over
