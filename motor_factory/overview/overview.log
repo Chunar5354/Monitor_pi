@@ -1,0 +1,37 @@
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:websockets.protocol:server - state = CONNECTING
+DEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=8 read=idle write=<idle, bufsize=0>>)
+DEBUG:websockets.server:server < GET / HTTP/1.1
+DEBUG:websockets.server:server < Headers([('Host', '39.100.5.176:30104'), ('Upgrade', 'websocket'), ('Connection', 'Upgrade'), ('Sec-WebSocket-Key', 'aeS7CS7E8m4ArEx/J7l7wA=='), ('Sec-WebSocket-Version', '13'), ('Sec-WebSocket-Extensions', 'permessage-deflate; client_max_window_bits'), ('User-Agent', 'Python/3.7 websockets/8.0.2')])
+DEBUG:websockets.server:server > HTTP/1.1 101 Switching Protocols
+DEBUG:websockets.server:server > Headers([('Upgrade', 'websocket'), ('Connection', 'Upgrade'), ('Sec-WebSocket-Accept', 'XWiwxoXrXYcTbt8CTw1K/M2wzIY='), ('Sec-WebSocket-Extensions', 'permessage-deflate'), ('Date', 'Fri, 18 Oct 2019 12:24:00 GMT'), ('Server', 'Python/3.7 websockets/8.0.2')])
+DEBUG:websockets.protocol:server - state = OPEN
+DEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"customer_name": "", "serial_number": "406", "parameter": ["voltage_AB", "voltage_BC", "voltage_CA", "current_A", "current_B", "current_C", "temp_fore_winding_A", "temp_fore_winding_B", "temp_fore_winding_C", "temp_fore_bearing", "temp_rear_bearing", "temp_water", "temp_controller_env", "rev", "temp_rotator"], "limit": "1", "start": "", "end": ""}', rsv1=False, rsv2=False, rsv3=False)
+INFO:root:Websocket served at time: Fri Oct 18 20:24:00 2019
+DEBUG:websockets.protocol:server > Frame(fin=True, opcode=1, data=b'{"temp_fore_winding_A": 19.37, "temp_fore_winding_B": 19.58, "temp_fore_winding_C": 20.5, "temp_fore_bearing": 27.48, "temp_rear_bearing": 34.61, "temp_controller_env": 17.59, "temp_water": 18.12, "temp_rotator": 19.2, "rev": 1230.0, "current_B": 0.19, "voltage_CA": 5.71, "voltage_BC": 1.7, "current_C": 0.53, "voltage_AB": 0.56, "current_A": 0.08, "create_time": "2019-10-14 16:10:23"}', rsv1=False, rsv2=False, rsv3=False)
+DEBUG:websockets.protocol:server - state = CLOSING
+DEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xe8', rsv1=False, rsv2=False, rsv3=False)
+DEBUG:websockets.protocol:server < Frame(fin=True, opcode=8, data=b'\x03\xe8', rsv1=False, rsv2=False, rsv3=False)
+DEBUG:websockets.protocol:server x half-closing TCP connection
+DEBUG:websockets.protocol:server - event = eof_received()
+DEBUG:websockets.protocol:server - event = connection_lost(None)
+DEBUG:websockets.protocol:server - state = CLOSED
+DEBUG:websockets.protocol:server x code = 1000, reason = [no reason]
+DEBUG:websockets.protocol:server - state = CONNECTING
+DEBUG:websockets.protocol:server - event = connection_made(<_SelectorSocketTransport fd=8 read=idle write=<idle, bufsize=0>>)
+DEBUG:websockets.server:server < GET / HTTP/1.1
+DEBUG:websockets.server:server < Headers([('Host', '39.100.5.176:30104'), ('Upgrade', 'websocket'), ('Connection', 'Upgrade'), ('Sec-WebSocket-Key', 'BF/3HyHVpQFwCr52ebAY7A=='), ('Sec-WebSocket-Version', '13'), ('Sec-WebSocket-Extensions', 'permessage-deflate; client_max_window_bits'), ('User-Agent', 'Python/3.7 websockets/8.0.2')])
+DEBUG:websockets.server:server > HTTP/1.1 101 Switching Protocols
+DEBUG:websockets.server:server > Headers([('Upgrade', 'websocket'), ('Connection', 'Upgrade'), ('Sec-WebSocket-Accept', 'D/0Lp//HufkR9vGBi7VMdAcMfs0='), ('Sec-WebSocket-Extensions', 'permessage-deflate'), ('Date', 'Fri, 18 Oct 2019 12:26:11 GMT'), ('Server', 'Python/3.7 websockets/8.0.2')])
+DEBUG:websockets.protocol:server - state = OPEN
+DEBUG:websockets.protocol:server < Frame(fin=True, opcode=1, data=b'{"customer_name": "", "serial_number": "406", "parameter": ["voltage_AB", "voltage_BC", "voltage_CA", "current_A", "current_B", "current_C", "temp_fore_winding_A", "temp_fore_winding_B", "temp_fore_winding_C", "temp_fore_bearing", "temp_rear_bearing", "temp_water", "temp_controller_env", "rev", "temp_rotator"], "limit": "1", "start": "", "end": ""}', rsv1=False, rsv2=False, rsv3=False)
+INFO:root:Websocket served at time: Fri Oct 18 20:26:11 2019
+DEBUG:websockets.protocol:server > Frame(fin=True, opcode=1, data=b'{"temp_fore_winding_A": 19.37, "temp_fore_winding_B": 19.58, "temp_fore_winding_C": 20.5, "temp_fore_bearing": 27.48, "temp_rear_bearing": 34.61, "temp_water": 18.12, "temp_controller_env": 17.59, "temp_rotator": 19.2, "rev": 1230.0, "voltage_AB": 0.56, "current_B": 0.19, "current_C": 0.53, "voltage_BC": 1.7, "voltage_CA": 5.71, "current_A": 0.08, "create_time": "2019-10-14 16:10:23"}', rsv1=False, rsv2=False, rsv3=False)
+DEBUG:websockets.protocol:server - state = CLOSING
+DEBUG:websockets.protocol:server > Frame(fin=True, opcode=8, data=b'\x03\xe8', rsv1=False, rsv2=False, rsv3=False)
+DEBUG:websockets.protocol:server < Frame(fin=True, opcode=8, data=b'\x03\xe8', rsv1=False, rsv2=False, rsv3=False)
+DEBUG:websockets.protocol:server x half-closing TCP connection
+DEBUG:websockets.protocol:server - event = eof_received()
+DEBUG:websockets.protocol:server - event = connection_lost(None)
+DEBUG:websockets.protocol:server - state = CLOSED
+DEBUG:websockets.protocol:server x code = 1000, reason = [no reason]

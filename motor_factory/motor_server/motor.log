@@ -388,3 +388,11 @@ INFO:root:Inserted scuuessfully
 INFO:root:Inserted scuuessfully
 ERROR:root:data error
 INFO:root:connection over
+INFO:root:At time Fri Oct 18 20:18:37 2019 connected with: ('219.217.154.220', 8057)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
