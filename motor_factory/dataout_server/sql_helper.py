@@ -1,9 +1,6 @@
 import pymysql
 import logging
 
-logging.basicConfig(filename='/home/Chunar/codes/Monitor_pi/motor_f/motor.log', level=logging.DEBUG)
-
-
 class Helper():
     def __init__(self, host, user, password, database, port=3306):
         '''
@@ -50,7 +47,7 @@ class Helper():
                 dataall = self.cur.fetchall()
         except Exception as ex:
             #print(ex, file='motor.log')
-            logging.error(ex)
+            print(ex)
 
         return dataall
 
@@ -64,7 +61,7 @@ class Helper():
             self.conn.commit()
         except Exceptioin as ex:
             #print(ex, file='motor.log')
-            logging.error(ex)
+            print(ex)
 
     def __item(self, sql):
         '''
@@ -78,7 +75,7 @@ class Helper():
             count = self.cur.execute(sql)
             self.conn.commit()  # 增删改操作需要加一个commit
         except Exception as ex:
-            print(ex, file='motor.log')
+            print(ex)
 		
         return count
 
