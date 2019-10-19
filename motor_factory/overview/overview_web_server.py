@@ -1,36 +1,45 @@
-# Use asyncio and websocket module, cerate a websocket server
-# Fetch data by using setch_aver.py
-
-import asyncio
-import websockets
-import json
+# Websocket server using tornado
+import tornado
+import tornado.websocket
 from fetch_aver import Hunter
-import time
 import logging
+import json
+import time
 
 logging.basicConfig(filename='/home/Chunar/codes/Monitor_pi/motor_factory/overview/overview.log', level=logging.DEBUG)
 
-async def hello(websocket, path):
-	# get parameters
-	data = await websocket.recv()
+class EchoWebSocket(tornado.websocket.WebSocketHandler):
 
-	# output time as log
-	t = time.localtime()
-	logging.info('Websocket served at time: {}'.format(time.asctime(t)))
+    # rewrite this methos so that the connection can allow all address
+    def check_origin(self, origin):
+        return True
 
-	# translate data format into dictionary
-	data_dict = json.loads(data)
+    # while start a new connection, log the time
+    def open(self):
+        t = time.localtime()
+        logging.info('Websocket served at time: {}'.format(time.asctime(t)))
 
-	# get result
-	ht = Hunter()
-	result_dict = ht.get_data(data_dict) 
-	data_send = json.dumps(result_dict)  # translate into str to send
+    # deal with data fetching
+    def on_message(self, message):
+        data = message
 
-	await websocket.send(data_send)
+        # translate data format into dictionary
+        data_dict = json.loads(data)
 
-if __name__ == '__main__':
-	# start server
-	start_server = websockets.serve(hello, "172.26.106.61", 30104)
+        # get result
+        ht = Hunter()
+        result_dict = ht.get_data(data_dict) 
+        data_send = json.dumps(result_dict)  # translate into str to send
 
-	asyncio.get_event_loop().run_until_complete(start_server)
-	asyncio.get_event_loop().run_forever()
+        self.write_message(data_send)
+
+    def on_close(self):
+        logging.info('*'*10 + 'WebSocket closed' + '*'*10)
+
+
+if __name__=='__main__':
+    app = tornado.web.Application([
+        (r'/', EchoWebSocket),
+    ])
+    app.listen(30104)  # set the port, the url will be "ws://ip:30104"
+    tornado.ioloop.IOLoop.current().start()

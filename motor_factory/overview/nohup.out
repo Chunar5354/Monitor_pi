@@ -1,1 +1,18 @@
 python3: can't open file '/home/Chunar/codes/Monitor_pi/motor_factory/overview_web_soc_server.py': [Errno 2] No such file or directory
+/usr/local/python3/lib/python3.7/site-packages/pandas/compat/__init__.py:84: UserWarning: Could not import the lzma module. Your installed Python is incomplete. Attempting to use lzma compression will result in a RuntimeError.
+  warnings.warn(msg)
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.41ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.40ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.67ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.51ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.65ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.40ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.38ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.75ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.57ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.69ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.39ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.71ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.42ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.44ms
+WARNING:tornado.access:403 GET / (202.118.99.182) 0.61ms
