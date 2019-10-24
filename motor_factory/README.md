@@ -2,7 +2,7 @@
 
 根目录下的几个txt文件为操作mysql的文件，用于批量增删一些数据
 
-### motor_server
+### upload_data_server
 
 硬件端上传数据的服务器程序，主程序为`motor_server.py`，后台运行即可开启socket监听服务
 
@@ -14,9 +14,11 @@
 
 客户端发送请求的数据为json格式，见`/overview/data_format.json`
 
-### dataout_server
+### fetch_data_server
 
-用于客户端读取数据
+用于客户端读取数据，主程序为`websocket_server.py`(websocket网页端)，以及`socket_server.py`(socket手机APP端)，后台运行即可开启相应服务
+
+客户端发送请求的格式与overview相同
 
 ### client_test
 
