@@ -1,0 +1,5 @@
+/usr/bin/python3: can't find '__main__' module in '/home/Chunar/codes'
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/socket_server.py", line 26
+    t = time.localtime()
+                       ^
+TabError: inconsistent use of tabs and spaces in indentation

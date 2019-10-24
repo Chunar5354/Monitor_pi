@@ -1,0 +1,9 @@
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.154.114) 0.58ms
+INFO:root:Websocket served at time: Thu Oct 24 08:45:56 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.154.114) 0.80ms
+INFO:root:Websocket served at time: Thu Oct 24 08:50:42 2019
+INFO:tornado.access:101 GET / (219.217.154.114) 0.57ms
+INFO:root:Websocket served at time: Thu Oct 24 08:51:03 2019

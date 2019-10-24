@@ -1,0 +1,448 @@
+INFO:root:connected with: ('219.217.152.100', 3464)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.152.100', 3547)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.152.100', 3558)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 3933)
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:no data
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 4061)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 6244)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:connected with: ('219.217.154.102', 11332)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 98, in <module>
+    main(host, port)
+  File "motor_server.py", line 91, in main
+    wsgi_server.run()
+  File "motor_server.py", line 73, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "motor_server.py", line 98, in <module>
+    main(host, port)
+  File "motor_server.py", line 91, in main
+    wsgi_server.run()
+  File "motor_server.py", line 73, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+INFO:root:connected with: ('219.217.154.102', 12330)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 92, in <module>
+    main(host, port)
+  File "motor_server.py", line 85, in main
+    wsgi_server.run()
+  File "motor_server.py", line 67, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+INFO:root:At time Sat Sep 28 13:52:28 2019 connected with: ('219.217.154.102', 12420)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 94, in <module>
+    main(host, port)
+  File "motor_server.py", line 86, in main
+    wsgi_server.run()
+  File "motor_server.py", line 67, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+INFO:root:At time Sat Sep 28 13:57:32 2019 connected with: ('219.217.154.102', 12508)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:At time Sat Sep 28 20:37:47 2019 connected with: ('219.217.154.102', 14683)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:At time Sun Sep 29 08:36:18 2019 connected with: ('219.217.154.102', 2263)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+ERROR:root:data error
+WARNING:root:connecting over
+INFO:root:At time Sun Sep 29 08:41:33 2019 connected with: ('219.217.154.102', 2308)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 1000")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 250")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 5")
+  result = self._query(query)
+/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/pymysql/cursors.py:170: Warning: (1265, "Data truncated for column 'value' at row 120")
+  result = self._query(query)
+Traceback (most recent call last):
+  File "motor_server.py", line 91, in <module>
+    main(host, port)
+  File "motor_server.py", line 83, in main
+    wsgi_server.run()
+  File "motor_server.py", line 64, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+Exception ignored in: <module 'threading' from '/home/Chunar/anaconda3/envs/chunar/lib/python3.7/threading.py'>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/threading.py", line 1308, in _shutdown
+    lock.acquire()
+KeyboardInterrupt
+INFO:root:At time Sun Sep 29 09:36:08 2019 connected with: ('219.217.154.102', 3342)
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:Inserted successfully
+INFO:root:At time Tue Oct  8 20:58:58 2019 connected with: ('219.217.144.192', 56614)
+Traceback (most recent call last):
+  File "motor_server.py", line 91, in <module>
+    main(host, port)
+  File "motor_server.py", line 83, in main
+    wsgi_server.run()
+  File "motor_server.py", line 64, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt
+Exception ignored in: <module 'threading' from '/home/Chunar/anaconda3/envs/chunar/lib/python3.7/threading.py'>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/threading.py", line 1308, in _shutdown
+    lock.acquire()
+KeyboardInterrupt
+INFO:root:At time Wed Oct  9 10:49:12 2019 connected with: ('219.217.152.100', 5863)
+INFO:root:At time Wed Oct  9 13:32:10 2019 connected with: ('219.217.152.100', 8194)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 13:36:02 2019 connected with: ('219.217.152.100', 8235)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 13:38:15 2019 connected with: ('219.217.152.100', 8256)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 14:18:24 2019 connected with: ('219.217.152.100', 9103)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 18:45:28 2019 connected with: ('219.217.152.100', 9899)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 18:46:18 2019 connected with: ('219.217.152.100', 9915)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 18:46:35 2019 connected with: ('219.217.152.100', 9925)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+WARNING:root:connection over
+ERROR:root:data error
+WARNING:root:connection over
+INFO:root:At time Wed Oct  9 20:55:31 2019 connected with: ('219.217.152.100', 11806)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 20:56:21 2019 connected with: ('219.217.152.100', 11815)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
+INFO:root:At time Wed Oct  9 20:57:23 2019 connected with: ('219.217.152.100', 11835)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
+INFO:root:At time Wed Oct  9 20:58:46 2019 connected with: ('219.217.152.100', 11847)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
+INFO:root:At time Wed Oct  9 21:10:19 2019 connected with: ('219.217.152.100', 11982)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:17:56 2019 connected with: ('219.217.152.100', 12066)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:25:23 2019 connected with: ('219.217.152.100', 12149)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:28:05 2019 connected with: ('219.217.152.100', 12226)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:35:45 2019 connected with: ('219.217.152.100', 12438)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:At time Wed Oct  9 21:54:31 2019 connected with: ('219.217.152.100', 12685)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
+INFO:root:At time Fri Oct 18 20:18:37 2019 connected with: ('219.217.154.220', 8057)
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+INFO:root:Inserted scuuessfully
+ERROR:root:data error
+INFO:root:connection over
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14498)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14499)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14504)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14505)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14506)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14507)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14509)
+INFO:root:At time Mon Oct 21 20:56:25 2019 connected with: ('219.217.152.37', 14510)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14511)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14513)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14514)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14515)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14516)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14517)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14518)
+INFO:root:At time Mon Oct 21 20:56:26 2019 connected with: ('219.217.152.37', 14519)
+INFO:root:At time Mon Oct 21 20:56:27 2019 connected with: ('219.217.152.37', 14520)
+INFO:root:At time Mon Oct 21 20:56:27 2019 connected with: ('219.217.152.37', 14521)
+INFO:root:At time Mon Oct 21 20:56:27 2019 connected with: ('219.217.152.37', 14523)
+INFO:root:At time Mon Oct 21 20:56:27 2019 connected with: ('219.217.152.37', 14524)
+INFO:root:At time Mon Oct 21 20:56:27 2019 connected with: ('219.217.152.37', 14525)
+INFO:root:At time Mon Oct 21 20:56:28 2019 connected with: ('219.217.152.37', 14526)
+INFO:root:At time Mon Oct 21 20:56:28 2019 connected with: ('219.217.152.37', 14527)
+INFO:root:At time Mon Oct 21 20:56:28 2019 connected with: ('219.217.152.37', 14528)
+INFO:root:At time Mon Oct 21 20:56:28 2019 connected with: ('219.217.152.37', 14530)
+INFO:root:At time Mon Oct 21 20:56:29 2019 connected with: ('219.217.152.37', 14531)
+INFO:root:At time Mon Oct 21 20:56:29 2019 connected with: ('219.217.152.37', 14533)
+INFO:root:At time Mon Oct 21 20:56:30 2019 connected with: ('219.217.152.37', 14534)
+INFO:root:At time Mon Oct 21 20:56:31 2019 connected with: ('219.217.152.37', 14535)
+INFO:root:At time Mon Oct 21 20:56:31 2019 connected with: ('219.217.152.37', 14536)
+INFO:root:At time Mon Oct 21 20:56:33 2019 connected with: ('219.217.152.37', 14538)
+INFO:root:At time Mon Oct 21 20:56:36 2019 connected with: ('219.217.152.37', 14540)
+INFO:root:At time Mon Oct 21 20:56:37 2019 connected with: ('219.217.152.37', 14544)
+INFO:root:At time Mon Oct 21 20:56:40 2019 connected with: ('219.217.152.37', 14546)
+INFO:root:At time Mon Oct 21 20:56:44 2019 connected with: ('219.217.152.37', 14559)
+INFO:root:At time Mon Oct 21 20:56:47 2019 connected with: ('219.217.152.37', 14567)
+INFO:root:At time Mon Oct 21 20:56:52 2019 connected with: ('219.217.152.37', 14570)
+INFO:root:At time Mon Oct 21 20:56:53 2019 connected with: ('219.217.152.37', 14573)
+INFO:root:At time Mon Oct 21 20:56:55 2019 connected with: ('219.217.152.37', 14575)
+INFO:root:At time Mon Oct 21 20:56:59 2019 connected with: ('219.217.152.37', 14581)
+INFO:root:At time Mon Oct 21 20:57:02 2019 connected with: ('219.217.152.37', 14589)
+INFO:root:At time Mon Oct 21 20:57:07 2019 connected with: ('219.217.152.37', 14594)
+INFO:root:At time Mon Oct 21 20:57:12 2019 connected with: ('219.217.152.37', 14600)
+INFO:root:At time Mon Oct 21 20:57:14 2019 connected with: ('219.217.152.37', 14602)
+INFO:root:At time Mon Oct 21 20:57:17 2019 connected with: ('219.217.152.37', 14607)
+INFO:root:At time Mon Oct 21 20:57:20 2019 connected with: ('219.217.152.37', 14612)
+INFO:root:At time Mon Oct 21 20:57:23 2019 connected with: ('219.217.152.37', 14615)
+INFO:root:At time Mon Oct 21 20:57:26 2019 connected with: ('219.217.152.37', 14618)
+INFO:root:At time Mon Oct 21 20:57:28 2019 connected with: ('219.217.152.37', 14620)
+INFO:root:At time Mon Oct 21 20:57:30 2019 connected with: ('219.217.152.37', 14622)
