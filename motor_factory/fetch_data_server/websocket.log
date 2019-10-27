@@ -7,3 +7,482 @@ INFO:tornado.access:101 GET / (219.217.154.114) 0.80ms
 INFO:root:Websocket served at time: Thu Oct 24 08:50:42 2019
 INFO:tornado.access:101 GET / (219.217.154.114) 0.57ms
 INFO:root:Websocket served at time: Thu Oct 24 08:51:03 2019
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (47.98.105.50) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.155.102) 0.60ms
+INFO:root:Websocket served at time: Fri Oct 25 15:01:52 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.102) 0.49ms
+INFO:root:Websocket served at time: Fri Oct 25 15:02:28 2019
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (202.118.99.182) 0.56ms
+INFO:root:Websocket served at time: Fri Oct 25 15:15:02 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.47ms
+INFO:root:Websocket served at time: Fri Oct 25 15:15:08 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.72ms
+INFO:root:Websocket served at time: Fri Oct 25 15:15:49 2019
+INFO:root:**********WebSocket closed**********
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.155.102) 0.76ms
+INFO:root:Websocket served at time: Fri Oct 25 15:31:57 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.47ms
+INFO:root:Websocket served at time: Fri Oct 25 15:52:56 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.52ms
+INFO:root:Websocket served at time: Fri Oct 25 15:52:59 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.54ms
+INFO:root:Websocket served at time: Fri Oct 25 15:53:07 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.54ms
+INFO:root:Websocket served at time: Fri Oct 25 15:54:09 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.60ms
+INFO:root:Websocket served at time: Fri Oct 25 15:54:17 2019
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+INFO:tornado.access:101 GET / (202.118.99.182) 0.49ms
+INFO:root:Websocket served at time: Fri Oct 25 15:55:28 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.60ms
+INFO:root:Websocket served at time: Fri Oct 25 15:56:44 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.49ms
+INFO:root:Websocket served at time: Fri Oct 25 15:56:47 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.46ms
+INFO:root:Websocket served at time: Fri Oct 25 15:59:13 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.64ms
+INFO:root:Websocket served at time: Fri Oct 25 15:59:15 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.50ms
+INFO:root:Websocket served at time: Fri Oct 25 16:00:53 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.53ms
+INFO:root:Websocket served at time: Fri Oct 25 16:01:21 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 58.213.153.13: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (58.213.153.13) 0.52ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (58.213.153.13) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1572029045 (58.213.153.13) 0.53ms
+WARNING:tornado.access:404 POST /sdk (58.213.153.13) 0.40ms
+WARNING:tornado.access:400 GET / (58.213.153.13) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /HNAP1 (58.213.153.13) 0.49ms
+WARNING:tornado.access:404 GET /evox/about (58.213.153.13) 0.41ms
+WARNING:tornado.access:400 GET / (58.213.153.13) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (58.213.153.13) 0.54ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (58.213.153.13) 0.42ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (202.118.99.182) 0.54ms
+INFO:root:Websocket served at time: Sat Oct 26 14:43:02 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (202.118.99.182) 0.56ms
+INFO:root:Websocket served at time: Sat Oct 26 14:57:20 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.48ms
+INFO:root:Websocket served at time: Sat Oct 26 21:40:38 2019
+INFO:tornado.access:101 GET / (219.217.155.15) 0.51ms
+INFO:root:Websocket served at time: Sat Oct 26 21:41:01 2019
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.65ms
+INFO:root:Websocket served at time: Sun Oct 27 11:08:36 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:10:51 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 28, in on_message
+    data_dict = json.loads(data)
+  File "/usr/local/python3/lib/python3.7/json/__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/python3/lib/python3.7/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/python3/lib/python3.7/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.49ms
+INFO:root:Websocket served at time: Sun Oct 27 11:10:55 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 28, in on_message
+    data_dict = json.loads(data)
+  File "/usr/local/python3/lib/python3.7/json/__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/python3/lib/python3.7/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/python3/lib/python3.7/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:10:59 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 28, in on_message
+    data_dict = json.loads(data)
+  File "/usr/local/python3/lib/python3.7/json/__init__.py", line 348, in loads
+    return _default_decoder.decode(s)
+  File "/usr/local/python3/lib/python3.7/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/local/python3/lib/python3.7/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.48ms
+INFO:root:Websocket served at time: Sun Oct 27 11:12:23 2019
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+INFO:tornado.access:101 GET / (219.217.155.15) 0.53ms
+INFO:root:Websocket served at time: Sun Oct 27 11:26:57 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:30:30 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.51ms
+INFO:root:Websocket served at time: Sun Oct 27 11:31:34 2019
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:31:57 2019
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.49ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:12 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.68ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:12 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.81ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:12 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.73ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:13 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.62ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:13 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.53ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:13 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.50ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:13 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.53ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:13 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.48ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:14 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.57ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:14 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.48ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:14 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.78ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:14 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.48ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:14 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.60ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:15 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.48ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:15 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.85ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:15 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.50ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:15 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:15 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:16 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.80ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:16 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.52ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:16 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.63ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:16 2019
+ERROR:tornado.application:Uncaught exception GET / (219.217.155.15)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.155.15')
+Traceback (most recent call last):
+  File "/usr/local/python3/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 32, in on_message
+    result_dict = ht.get_data(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/fetch_data.py", line 68, in get_data
+    start_time = data_dict["start"]
+TypeError: list indices must be integers or slices, not str
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.50ms
+INFO:root:Websocket served at time: Sun Oct 27 11:36:42 2019
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.155.15) 0.47ms
+INFO:root:Websocket served at time: Sun Oct 27 11:37:24 2019
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (106.15.191.180) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".

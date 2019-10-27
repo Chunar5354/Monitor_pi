@@ -5,6 +5,7 @@ from fetch_data import Hunter
 import logging
 import json
 import time
+from simu_data import data_magic
 
 logging.basicConfig(filename='/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket.log', level=logging.DEBUG)
 
@@ -29,6 +30,8 @@ class EchoWebSocket(tornado.websocket.WebSocketHandler):
         # get result
         ht = Hunter()
         result_dict = ht.get_data(data_dict) 
+        # if need to change voltage data, use the statement below
+        result_dict = data_magic(result_dict)
         data_send = json.dumps(result_dict)  # translate into str to send
 
         self.write_message(data_send)

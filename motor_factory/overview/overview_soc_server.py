@@ -9,6 +9,7 @@ import struct
 import logging
 import time
 from fetch_aver import Hunter
+from simu_overview import data_magic
 
 logging.basicConfig(filename='/home/Chunar/codes/Monitor_pi/motor_factory/overview/overview.log', level=logging.DEBUG)
 
@@ -34,6 +35,9 @@ class MyServer(socketserver.BaseRequestHandler):
                 data_dict = json.loads(data_all.decode('utf-8'))
 
                 result_dict = ht.get_data(data_dict)
+                # simulate voltage data for exhibition, in peacetime, annotate it
+                # result_dict = data_magic(result_dict)
+
                 data_send = json.dumps(result_dict)
                 conn.sendall(data_send.encode())
 
