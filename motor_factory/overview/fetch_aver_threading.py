@@ -27,7 +27,8 @@ class Hunter():
 						   'vib_fore_bearing': '1000',
 						   'vib_rear_bearing': '1000',
 						  }
-		# crt_time only need to appear once
+		# set a global dict to receive the result in threads
+		self.result_dict = {}
 		self.crt_time = None
 
 		# users can choose fetch average or single data
@@ -54,16 +55,12 @@ class Hunter():
 		# use mean method to calculate average
 		# value_aver = round(result['value'].mean(), 2)
 		value_aver = result['value'][0]
-		return value_aver
+		self.result_dict[para] = value_aver	
 
 	# get the first value in the giving interval
 	def _datasingle(self, para, sql):
 		'''
-		Get the first data in the giving interval
-		Args:
-			para: parament name, such as current_A
-			sql: sql string
-		Returns: the value of given parament, float type
+		get the first data in the giving interval
 		'''
 		# do connection, pymysql must create a new connection for every threading
 		db = pymysql.connect(host='',
@@ -84,8 +81,7 @@ class Hunter():
 
 		# get single value
 		result_value = dataall[0][1]
-		# self.result_dict[para] = result_value
-		return result_value
+		self.result_dict[para] = result_value
 
 	# main get data
 	def get_data(self, data_dict):
@@ -95,7 +91,7 @@ class Hunter():
 		Returns: a dictionary include create_time and all the value of giving parameter
 		'''
 		# clear global variable
-		result_dict = {}
+		self.result_dict = {}
 		self.crt_time = None
 
 		start_time = data_dict["start"]
@@ -113,7 +109,8 @@ class Hunter():
 				# if strat_time is null, means fetching the newets data
 				else:
 					sql = "select create_time, value from monitoring_Spike.406_{} order by create_time desc limit {}".format(para, self.limit_dict[para])
-				result_dict[para] = self._dataaver(para, sql)
+				# put all threadings in a list
+				th_list.append(threading.Thread(target=self._dataout, args=(para, sql)))
 
 			# fetch the first value in every parameter
 			else:
@@ -123,9 +120,18 @@ class Hunter():
 				# if strat_time is null, means fetching the newets data
 				else:
 					sql = "select create_time, value from monitoring_Spike.406_{} order by create_time desc limit 1".format(para)
-				result_dict[para] = self._datasingle(para, sql)
+				# put all threadings in a list
+				th_list.append(threading.Thread(target=self._datasingle, args=(para, sql)))
+
+		# start threadings
+		for th in th_list:
+			th.start()
+		# use join method to wait until every threading is finished
+		for th in th_list:
+			th.join()
 
 		# add time in result_dict
-		result_dict["create_time"] = str(self.crt_time)
+		self.result_dict["create_time"] = str(self.crt_time)
+		result_dict = self.result_dict
 		return result_dict
 		

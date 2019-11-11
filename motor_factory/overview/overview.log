@@ -18883,3 +18883,72 @@ Traceback (most recent call last):
     raise WebSocketClosedError()
 tornado.websocket.WebSocketClosedError
 INFO:root:At time Sun Nov  3 21:24:05 2019 connected with: ('219.217.153.78', 9872)
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.154.132) 0.69ms
+INFO:root:Websocket served at time: Mon Nov 11 10:45:20 2019
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+INFO:tornado.access:101 GET / (219.217.154.132) 0.46ms
+INFO:root:Websocket served at time: Mon Nov 11 10:45:35 2019
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+INFO:tornado.access:101 GET / (219.217.154.132) 0.51ms
+INFO:root:Websocket served at time: Mon Nov 11 10:46:19 2019
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:At time Mon Nov 11 10:49:54 2019 connected with: ('219.217.154.132', 6905)
+INFO:root:At time Mon Nov 11 10:50:07 2019 connected with: ('219.217.154.132', 6906)
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.154.132) 0.56ms
+INFO:root:Websocket served at time: Mon Nov 11 11:04:42 2019
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
