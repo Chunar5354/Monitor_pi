@@ -8,3 +8,48 @@ INFO:root:successfully connected ...
 INFO:root:successfully connected ...
 INFO:root:Server finished
 INFO:root:*************************
+DEBUG:asyncio:Using selector: EpollSelector
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:Socket served at time: Thu Nov 28 19:46:07 2019 with: ('219.217.155.81', 55183)
+ERROR:tornado.application:Exception in callback functools.partial(<function TCPServer._handle_connection.<locals>.<lambda> at 0x7f40bf45cb90>, <Future finished exception=TypeError('unpack() takes exactly 2 arguments (1 given)')>)
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/tcpserver.py", line 327, in <lambda>
+    gen.convert_yielded(future), lambda f: f.result()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/gen.py", line 748, in run
+    yielded = self.gen.send(value)
+  File "upload_server.py", line 32, in handle_stream
+    l = struct.unpack(read_l)
+TypeError: unpack() takes exactly 2 arguments (1 given)
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:Socket served at time: Thu Nov 28 19:47:41 2019 with: ('219.217.155.81', 55188)
+INFO:root:successfully connected ...
+ERROR:tornado.application:Exception in callback functools.partial(<function TCPServer._handle_connection.<locals>.<lambda> at 0x7f83e161ab90>, <Future finished exception=TypeError("'>' not supported between instances of 'tuple' and 'int'")>)
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/tcpserver.py", line 327, in <lambda>
+    gen.convert_yielded(future), lambda f: f.result()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/gen.py", line 748, in run
+    yielded = self.gen.send(value)
+  File "upload_server.py", line 37, in handle_stream
+    while l > 0:
+TypeError: '>' not supported between instances of 'tuple' and 'int'
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:Socket served at time: Thu Nov 28 19:48:43 2019 with: ('219.217.155.81', 55198)
+INFO:root:successfully connected ...
+INFO:root:successfully connected ...
+INFO:root:successfully connected ...
+INFO:root:Server finished
+INFO:root:*************************
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:root:Socket served at time: Thu Nov 28 20:08:12 2019 with: ('219.217.155.81', 55351)
+INFO:root:successfully connected ...
+ERROR:root:no data
+INFO:root:successfully connected ...
+ERROR:root:no data
+INFO:root:successfully connected ...
+ERROR:root:no data
+INFO:root:Server finished
+INFO:root:*************************
