@@ -31,7 +31,7 @@ class DataServer(TCPServer):
 			try:
 				read_l = yield stream.read_bytes(4, partial=True)
 				length = struct.unpack('i', read_l)
-				print(length)
+				# print(length)
 				logging.info("successfully connected ...")
 				data_all = b''
 				# l = 23948

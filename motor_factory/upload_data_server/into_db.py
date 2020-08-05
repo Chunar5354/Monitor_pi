@@ -66,7 +66,7 @@ class Motor():
 				table_name = serial_number + '_' + sub_name
 				value_list = data_dict[sub_name].split('/')
 				insert_datalist = []
-				for value in value_list:
+				for value in value_list[:-1]:
 					data_tuple = (create_time, value)
 					insert_datalist.append(data_tuple)
 				sql = "INSERT INTO monitoring_test.{}(create_time, value) VALUES(%s, %s)".format(table_name)

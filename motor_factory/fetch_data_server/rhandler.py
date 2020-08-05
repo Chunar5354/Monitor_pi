@@ -72,7 +72,7 @@ class RedisHandler():
 		for para in para_list:
 			# if user require data time, use it
 			if len(start_time) > 1:
-				result_dict[para] = conn.hget(strat_time, serial_number + para)
+				result_dict[para] = conn.hget(start_time, serial_number + '_' + para).decode()
 
 			# id user does not require data time, fetch the newest data
 			else:
