@@ -6834,3 +6834,1864 @@ INFO:root:**********WebSocket closed**********
 INFO:root:**********WebSocket closed**********
 INFO:root:**********WebSocket closed**********
 INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.153.91) 0.85ms
+INFO:root:Websocket served at time: Thu Aug  6 10:54:48 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.153.91) 0.60ms
+INFO:root:Websocket served at time: Thu Aug  6 10:54:59 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.58ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:01 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 2.44ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:02 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.47ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:03 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.43ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:03 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 2.18ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:04 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.61ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:05 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.56ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:05 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.58ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:06 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.62ms
+INFO:root:Websocket served at time: Thu Aug  6 10:55:08 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.153.91) 0.72ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:35 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.56ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:43 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.59ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:44 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.51ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:45 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 2.52ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:45 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 2.07ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:46 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.89ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:47 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.72ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:48 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.51ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:49 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.56ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:50 2020
+INFO:tornado.access:101 GET / (219.217.153.91) 0.40ms
+INFO:root:Websocket served at time: Thu Aug  6 11:01:50 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 139.224.136.79: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.52ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (139.224.136.79) 0.89ms
+WARNING:tornado.access:404 GET /nmaplowercheck1596921895 (139.224.136.79) 0.57ms
+WARNING:tornado.access:404 GET /evox/about (139.224.136.79) 0.58ms
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /HNAP1 (139.224.136.79) 0.59ms
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.76.177) 0.62ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.76.177) 0.66ms
+WARNING:tornado.access:404 GET /index.html (47.103.76.177) 0.66ms
+WARNING:tornado.access:404 GET /index.php (47.103.76.177) 0.68ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.76.177) 0.51ms
+WARNING:tornado.access:404 GET /admin/ (47.103.76.177) 0.46ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.76.177) 0.48ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.76.177) 0.47ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.76.177) 0.47ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.76.177) 0.49ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.76.177) 0.51ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.76.177) 0.51ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.76.177) 0.47ms
+WARNING:tornado.access:400 GET / (47.103.64.80) 0.43ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.64.80) 0.46ms
+WARNING:tornado.access:404 GET /index.html (47.103.64.80) 0.52ms
+WARNING:tornado.access:404 GET /index.php (47.103.64.80) 0.49ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.64.80) 0.51ms
+WARNING:tornado.access:404 GET /admin/ (47.103.64.80) 0.46ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.64.80) 0.49ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.64.80) 0.52ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.64.80) 0.48ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.64.80) 0.49ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.64.80) 0.47ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.64.80) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.64.80) 0.48ms
+WARNING:tornado.access:400 GET / (47.103.64.80) 0.66ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.64.80) 0.68ms
+WARNING:tornado.access:404 GET /index.html (47.103.64.80) 0.70ms
+WARNING:tornado.access:404 GET /index.php (47.103.64.80) 0.62ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.64.80) 0.65ms
+WARNING:tornado.access:404 GET /admin/ (47.103.64.80) 0.67ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.64.80) 0.67ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.64.80) 0.67ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.64.80) 0.70ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.64.80) 0.66ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.64.80) 0.64ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.64.80) 0.59ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.64.80) 0.62ms
+INFO:tornado.general:Malformed HTTP message from 101.133.147.20: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1597195763 (101.133.147.20) 0.56ms
+WARNING:tornado.access:404 POST /sdk (101.133.147.20) 0.73ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.147.20) 0.46ms
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /evox/about (101.133.147.20) 0.51ms
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.54ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Thu Aug 13 23:12:44 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 106.14.81.82: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (106.14.81.82) 0.60ms
+WARNING:tornado.access:404 GET /nmaplowercheck1597546066 (106.14.81.82) 0.50ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.81.82) 0.47ms
+WARNING:tornado.access:404 GET /evox/about (106.14.81.82) 0.54ms
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.41ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.76.12) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.76.12) 0.44ms
+WARNING:tornado.access:404 GET /index.html (47.103.76.12) 0.50ms
+WARNING:tornado.access:404 GET /index.php (47.103.76.12) 0.47ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.76.12) 0.46ms
+WARNING:tornado.access:404 GET /admin/ (47.103.76.12) 0.47ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.76.12) 0.52ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.76.12) 0.47ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.76.12) 0.47ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.76.12) 0.59ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.76.12) 0.50ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.76.12) 0.55ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.76.12) 0.54ms
+WARNING:tornado.access:400 GET / (47.103.71.9) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.71.9) 0.47ms
+WARNING:tornado.access:404 GET /index.html (47.103.71.9) 0.49ms
+WARNING:tornado.access:404 GET /index.php (47.103.71.9) 0.58ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.71.9) 0.50ms
+WARNING:tornado.access:404 GET /admin/ (47.103.71.9) 0.48ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.71.9) 0.47ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.71.9) 0.66ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.71.9) 0.62ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.71.9) 0.49ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.71.9) 0.58ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.71.9) 0.64ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.71.9) 0.52ms
+WARNING:tornado.access:400 GET / (47.103.128.244) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.128.244) 0.56ms
+WARNING:tornado.access:404 GET /index.html (47.103.128.244) 0.51ms
+WARNING:tornado.access:404 GET /index.php (47.103.128.244) 0.47ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.128.244) 0.50ms
+WARNING:tornado.access:404 GET /admin/ (47.103.128.244) 0.52ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.128.244) 0.54ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.128.244) 0.46ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.128.244) 0.52ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.128.244) 0.45ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.128.244) 0.47ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.128.244) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.128.244) 0.52ms
+INFO:tornado.general:Malformed HTTP message from 106.14.83.56: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (106.14.83.56) 0.79ms
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.59ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1597886062 (106.14.83.56) 0.59ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.83.56) 0.60ms
+WARNING:tornado.access:404 GET /evox/about (106.14.83.56) 0.54ms
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.52ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.62ms
+INFO:root:Websocket served at time: Fri Aug 21 05:30:07 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 47.101.72.8: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.58ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1598254698 (47.101.72.8) 0.56ms
+WARNING:tornado.access:404 GET /evox/about (47.101.72.8) 0.59ms
+WARNING:tornado.access:404 GET /HNAP1 (47.101.72.8) 0.51ms
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.37ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (47.101.72.8) 0.58ms
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.154.161) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.154.161) 0.46ms
+WARNING:tornado.access:404 GET /index.html (47.103.154.161) 0.51ms
+WARNING:tornado.access:404 GET /index.php (47.103.154.161) 0.52ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.154.161) 0.49ms
+WARNING:tornado.access:404 GET /admin/ (47.103.154.161) 0.58ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.154.161) 0.56ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.154.161) 0.51ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.154.161) 0.51ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.154.161) 0.52ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.154.161) 0.48ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.154.161) 0.57ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.154.161) 0.49ms
+WARNING:tornado.access:400 GET / (47.101.42.221) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.101.42.221) 0.45ms
+WARNING:tornado.access:404 GET /index.html (47.101.42.221) 0.47ms
+WARNING:tornado.access:404 GET /index.php (47.101.42.221) 0.49ms
+WARNING:tornado.access:404 GET /index.jsp (47.101.42.221) 0.48ms
+WARNING:tornado.access:404 GET /admin/ (47.101.42.221) 0.52ms
+WARNING:tornado.access:404 GET /favicon.ico (47.101.42.221) 0.47ms
+WARNING:tornado.access:404 GET /robots.txt (47.101.42.221) 0.48ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.101.42.221) 0.49ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.101.42.221) 0.48ms
+WARNING:tornado.access:404 GET /wcm/ (47.101.42.221) 0.48ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.101.42.221) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.101.42.221) 0.49ms
+WARNING:tornado.access:400 GET / (139.196.227.158) 0.57ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (139.196.227.158) 0.49ms
+WARNING:tornado.access:404 GET /index.html (139.196.227.158) 0.53ms
+WARNING:tornado.access:404 GET /index.php (139.196.227.158) 0.49ms
+WARNING:tornado.access:404 GET /index.jsp (139.196.227.158) 0.52ms
+WARNING:tornado.access:404 GET /admin/ (139.196.227.158) 0.47ms
+WARNING:tornado.access:404 GET /favicon.ico (139.196.227.158) 0.50ms
+WARNING:tornado.access:404 GET /robots.txt (139.196.227.158) 0.48ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (139.196.227.158) 0.53ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (139.196.227.158) 0.45ms
+WARNING:tornado.access:404 GET /wcm/ (139.196.227.158) 0.49ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (139.196.227.158) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (139.196.227.158) 0.46ms
+INFO:tornado.general:Malformed HTTP message from 101.133.224.44: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.224.44) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.44) 0.59ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.224.44) 0.58ms
+WARNING:tornado.access:404 GET /nmaplowercheck1598571268 (101.133.224.44) 0.59ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.224.44) 0.52ms
+WARNING:tornado.access:404 GET /evox/about (101.133.224.44) 0.61ms
+WARNING:tornado.access:400 GET / (101.133.224.44) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.44) 0.43ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.63ms
+INFO:root:Websocket served at time: Fri Aug 28 15:10:35 2020
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (47.103.98.159) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.185.38) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (106.14.185.38) 0.46ms
+WARNING:tornado.access:404 GET /index.html (106.14.185.38) 0.47ms
+WARNING:tornado.access:404 GET /index.php (106.14.185.38) 0.46ms
+WARNING:tornado.access:404 GET /index.jsp (106.14.185.38) 0.46ms
+WARNING:tornado.access:404 GET /admin/ (106.14.185.38) 0.47ms
+WARNING:tornado.access:404 GET /favicon.ico (106.14.185.38) 0.50ms
+WARNING:tornado.access:404 GET /robots.txt (106.14.185.38) 0.46ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (106.14.185.38) 0.54ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (106.14.185.38) 0.45ms
+WARNING:tornado.access:404 GET /wcm/ (106.14.185.38) 0.48ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (106.14.185.38) 0.48ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (106.14.185.38) 0.46ms
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Fri Sep  4 16:20:38 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 101.133.224.200: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.224.200) 0.65ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1599226429 (101.133.224.200) 0.60ms
+WARNING:tornado.access:400 GET / (101.133.224.200) 0.39ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /HNAP1 (101.133.224.200) 0.57ms
+WARNING:tornado.access:404 POST /sdk (101.133.224.200) 0.62ms
+WARNING:tornado.access:404 GET /evox/about (101.133.224.200) 0.53ms
+WARNING:tornado.access:400 GET / (101.133.224.200) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.200) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.19) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.233.236) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (101.133.233.236) 0.50ms
+WARNING:tornado.access:404 GET /index.html (101.133.233.236) 0.49ms
+WARNING:tornado.access:404 GET /index.php (101.133.233.236) 0.50ms
+WARNING:tornado.access:404 GET /index.jsp (101.133.233.236) 0.53ms
+WARNING:tornado.access:404 GET /admin/ (101.133.233.236) 0.51ms
+WARNING:tornado.access:404 GET /favicon.ico (101.133.233.236) 0.48ms
+WARNING:tornado.access:404 GET /robots.txt (101.133.233.236) 0.54ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (101.133.233.236) 0.50ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (101.133.233.236) 0.47ms
+WARNING:tornado.access:404 GET /wcm/ (101.133.233.236) 0.51ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (101.133.233.236) 0.49ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (101.133.233.236) 0.52ms
+WARNING:tornado.access:400 GET / (47.103.129.248) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.129.248) 0.51ms
+WARNING:tornado.access:404 GET /index.html (47.103.129.248) 0.58ms
+WARNING:tornado.access:404 GET /index.php (47.103.129.248) 0.55ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.129.248) 0.53ms
+WARNING:tornado.access:404 GET /admin/ (47.103.129.248) 0.54ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.129.248) 0.49ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.129.248) 0.55ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.129.248) 0.76ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.129.248) 0.50ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.129.248) 0.52ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.129.248) 0.51ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.129.248) 0.61ms
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Fri Sep 11 14:46:54 2020
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (101.133.162.195) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (101.133.162.195) 0.47ms
+WARNING:tornado.access:404 GET /index.html (101.133.162.195) 0.52ms
+WARNING:tornado.access:404 GET /index.php (101.133.162.195) 0.54ms
+WARNING:tornado.access:404 GET /index.jsp (101.133.162.195) 0.48ms
+WARNING:tornado.access:404 GET /admin/ (101.133.162.195) 0.51ms
+WARNING:tornado.access:404 GET /favicon.ico (101.133.162.195) 0.49ms
+WARNING:tornado.access:404 GET /robots.txt (101.133.162.195) 0.64ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (101.133.162.195) 0.50ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (101.133.162.195) 0.47ms
+WARNING:tornado.access:404 GET /wcm/ (101.133.162.195) 0.55ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (101.133.162.195) 0.63ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (101.133.162.195) 0.51ms
+INFO:tornado.general:Malformed HTTP message from 139.224.136.79: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1599835569 (139.224.136.79) 0.55ms
+WARNING:tornado.access:404 GET /evox/about (139.224.136.79) 0.59ms
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /HNAP1 (139.224.136.79) 0.50ms
+WARNING:tornado.access:404 POST /sdk (139.224.136.79) 0.63ms
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.57ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.67ms
+INFO:root:Websocket served at time: Sat Sep 12 01:12:15 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.65ms
+INFO:root:Websocket served at time: Sat Sep 12 01:12:31 2020
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.64.70) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.64.70) 0.70ms
+WARNING:tornado.access:404 GET /index.html (47.103.64.70) 0.51ms
+WARNING:tornado.access:404 GET /index.php (47.103.64.70) 0.48ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.64.70) 0.49ms
+WARNING:tornado.access:404 GET /admin/ (47.103.64.70) 0.49ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.64.70) 0.49ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.64.70) 0.47ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.64.70) 0.50ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.64.70) 0.53ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.64.70) 0.48ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.64.70) 0.48ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.64.70) 0.47ms
+INFO:tornado.access:101 GET / (127.0.0.1) 0.56ms
+INFO:root:Websocket served at time: Fri Sep 18 17:22:36 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 106.14.81.82: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (106.14.81.82) 0.65ms
+WARNING:tornado.access:404 GET /nmaplowercheck1600440582 (106.14.81.82) 0.53ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.81.82) 0.49ms
+WARNING:tornado.access:404 GET /evox/about (106.14.81.82) 0.58ms
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.102.184.30) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.116.130.192) 0.52ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.116.130.192) 0.42ms
+WARNING:tornado.access:404 GET /index.html (47.116.130.192) 0.48ms
+WARNING:tornado.access:404 GET /index.php (47.116.130.192) 0.47ms
+WARNING:tornado.access:404 GET /index.jsp (47.116.130.192) 0.46ms
+WARNING:tornado.access:404 GET /admin/ (47.116.130.192) 0.53ms
+WARNING:tornado.access:404 GET /favicon.ico (47.116.130.192) 0.53ms
+WARNING:tornado.access:404 GET /robots.txt (47.116.130.192) 0.52ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.116.130.192) 0.49ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.116.130.192) 0.48ms
+WARNING:tornado.access:404 GET /wcm/ (47.116.130.192) 0.51ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.116.130.192) 0.48ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.116.130.192) 0.51ms
+WARNING:tornado.access:400 GET / (47.103.83.136) 0.37ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.83.136) 0.47ms
+WARNING:tornado.access:404 GET /index.html (47.103.83.136) 0.47ms
+WARNING:tornado.access:404 GET /index.php (47.103.83.136) 0.48ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.83.136) 0.62ms
+WARNING:tornado.access:404 GET /admin/ (47.103.83.136) 0.52ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.83.136) 0.48ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.83.136) 0.53ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.83.136) 0.69ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.83.136) 0.67ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.83.136) 0.49ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.83.136) 0.48ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.83.136) 0.52ms
+INFO:tornado.access:101 GET / (127.0.0.1) 0.66ms
+INFO:root:Websocket served at time: Fri Sep 25 09:58:34 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 47.103.37.203: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.103.37.203) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.37.203) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1601047256 (47.103.37.203) 0.51ms
+WARNING:tornado.access:404 POST /sdk (47.103.37.203) 0.54ms
+WARNING:tornado.access:404 GET /evox/about (47.103.37.203) 0.50ms
+WARNING:tornado.access:404 GET /HNAP1 (47.103.37.203) 0.49ms
+WARNING:tornado.access:400 GET / (47.103.37.203) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.37.203) 0.40ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.135.162) 0.43ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.136.80: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.57ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1601601774 (101.133.136.80) 0.51ms
+WARNING:tornado.access:404 POST /sdk (101.133.136.80) 0.49ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.136.80) 0.54ms
+WARNING:tornado.access:404 GET /evox/about (101.133.136.80) 0.51ms
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.54ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.62ms
+INFO:root:Websocket served at time: Fri Oct  2 12:26:49 2020
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (101.133.224.19) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.116.76.179) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.116.76.179) 0.47ms
+WARNING:tornado.access:404 GET /index.html (47.116.76.179) 0.49ms
+WARNING:tornado.access:404 GET /index.php (47.116.76.179) 0.50ms
+WARNING:tornado.access:404 GET /index.jsp (47.116.76.179) 0.48ms
+WARNING:tornado.access:404 GET /admin/ (47.116.76.179) 0.47ms
+WARNING:tornado.access:404 GET /favicon.ico (47.116.76.179) 0.51ms
+WARNING:tornado.access:404 GET /robots.txt (47.116.76.179) 0.48ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.116.76.179) 0.49ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.116.76.179) 0.46ms
+WARNING:tornado.access:404 GET /wcm/ (47.116.76.179) 0.51ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.116.76.179) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.116.76.179) 0.46ms
+WARNING:tornado.access:400 GET / (47.103.145.51) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.145.51) 0.47ms
+WARNING:tornado.access:404 GET /index.html (47.103.145.51) 0.50ms
+WARNING:tornado.access:404 GET /index.php (47.103.145.51) 0.51ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.145.51) 0.45ms
+WARNING:tornado.access:404 GET /admin/ (47.103.145.51) 0.54ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.145.51) 0.48ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.145.51) 0.52ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.145.51) 0.49ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.145.51) 0.49ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.145.51) 0.48ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.145.51) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.145.51) 0.49ms
+WARNING:tornado.access:400 GET / (47.103.129.81) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.129.81) 0.49ms
+WARNING:tornado.access:404 GET /index.html (47.103.129.81) 0.50ms
+WARNING:tornado.access:404 GET /index.php (47.103.129.81) 0.48ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.129.81) 0.52ms
+WARNING:tornado.access:404 GET /admin/ (47.103.129.81) 0.52ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.129.81) 0.52ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.129.81) 0.51ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.129.81) 0.49ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.129.81) 0.47ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.129.81) 0.46ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.129.81) 0.56ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.129.81) 0.48ms
+INFO:tornado.access:101 GET / (127.0.0.1) 0.57ms
+INFO:root:Websocket served at time: Thu Oct  8 23:08:53 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 106.14.81.82: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (106.14.81.82) 0.58ms
+WARNING:tornado.access:404 GET /nmaplowercheck1602216327 (106.14.81.82) 0.59ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.81.82) 0.52ms
+WARNING:tornado.access:404 GET /evox/about (106.14.81.82) 0.58ms
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.81.82) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.200) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Thu Oct 15 19:15:58 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.68ms
+INFO:root:Websocket served at time: Thu Oct 15 19:16:05 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Thu Oct 15 19:53:53 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.82ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:01 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:15 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.57ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:15 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.62ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:19 2020
+INFO:tornado.access:101 GET / (182.204.173.95) 0.48ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:30 2020
+INFO:tornado.access:101 GET / (182.204.173.95) 0.48ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:31 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.83ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:43 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Thu Oct 15 19:54:54 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Thu Oct 15 19:57:02 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.59ms
+INFO:root:Websocket served at time: Thu Oct 15 20:32:36 2020
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (47.101.49.222) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.59ms
+INFO:root:Websocket served at time: Thu Oct 15 21:46:42 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.68ms
+INFO:root:Websocket served at time: Fri Oct 16 08:30:17 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.57ms
+INFO:root:Websocket served at time: Fri Oct 16 12:43:41 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 47.103.41.229: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.103.41.229) 0.59ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (47.103.41.229) 0.81ms
+WARNING:tornado.access:404 GET /nmaplowercheck1602828641 (47.103.41.229) 0.57ms
+WARNING:tornado.access:404 GET /HNAP1 (47.103.41.229) 0.57ms
+WARNING:tornado.access:404 GET /evox/about (47.103.41.229) 0.64ms
+WARNING:tornado.access:400 GET / (47.103.41.229) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.41.229) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.41.229) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.102.184.30) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.95.248) 0.42ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.95.248) 0.47ms
+WARNING:tornado.access:404 GET /index.html (47.103.95.248) 0.50ms
+WARNING:tornado.access:404 GET /index.php (47.103.95.248) 0.46ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.95.248) 0.51ms
+WARNING:tornado.access:404 GET /admin/ (47.103.95.248) 0.54ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.95.248) 0.48ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.95.248) 0.49ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.95.248) 0.54ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.95.248) 0.49ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.95.248) 0.46ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.95.248) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.95.248) 0.47ms
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (47.103.92.195) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.92.195) 0.48ms
+WARNING:tornado.access:404 GET /index.html (47.103.92.195) 0.56ms
+WARNING:tornado.access:404 GET /index.php (47.103.92.195) 0.47ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.92.195) 0.52ms
+WARNING:tornado.access:404 GET /admin/ (47.103.92.195) 0.46ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.92.195) 0.50ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.92.195) 0.53ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.92.195) 0.52ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.92.195) 0.51ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.92.195) 0.45ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.92.195) 0.51ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.92.195) 0.52ms
+WARNING:tornado.access:400 GET / (47.103.37.155) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.37.155) 0.47ms
+WARNING:tornado.access:404 GET /index.html (47.103.37.155) 0.52ms
+WARNING:tornado.access:404 GET /index.php (47.103.37.155) 0.58ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.37.155) 0.45ms
+WARNING:tornado.access:404 GET /admin/ (47.103.37.155) 0.54ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.37.155) 0.50ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.37.155) 0.52ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.37.155) 0.57ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.37.155) 0.53ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.37.155) 0.54ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.37.155) 0.55ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.37.155) 0.56ms
+INFO:tornado.general:Malformed HTTP message from 101.133.225.252: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.225.252) 0.60ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.225.252) 0.68ms
+WARNING:tornado.access:404 GET /nmaplowercheck1603109664 (101.133.225.252) 0.38ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.225.252) 0.54ms
+WARNING:tornado.access:404 GET /evox/about (101.133.225.252) 0.58ms
+WARNING:tornado.access:400 GET / (101.133.225.252) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.225.252) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.225.252) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.59ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.67ms
+INFO:root:Websocket served at time: Wed Oct 21 22:55:44 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 22:58:21 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 22:58:35 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 22:59:12 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 22:59:21 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.56ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:15 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.63ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:15 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.47ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:24 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (223.104.22.134) 0.71ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:45 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:46 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:47 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.59ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:48 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:49 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.59ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:50 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:51 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.50ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:52 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.53ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:53 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.60ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:54 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:55 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.61ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:56 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.59ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:57 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:58 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:00:59 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.50ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:00 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.69ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:01 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.51ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:02 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:03 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.58ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:04 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.82ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:05 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.48ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:06 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:07 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.75ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:08 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.68ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:09 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.70ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:10 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.50ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:11 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:12 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:13 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:16 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.61ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:17 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:18 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.70ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:19 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:20 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.67ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:21 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:22 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.59ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:23 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.53ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:24 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:25 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.56ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:26 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:27 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.53ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:28 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.50ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:29 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:30 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.76ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:31 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:32 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.51ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:33 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:34 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:35 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:36 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.52ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:37 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.49ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:38 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.48ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:39 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.53ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:40 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.53ms
+INFO:root:Websocket served at time: Wed Oct 21 23:01:41 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Wed Oct 21 23:04:30 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.55ms
+INFO:root:Websocket served at time: Wed Oct 21 23:11:00 2020
+INFO:tornado.access:101 GET / (223.104.22.134) 0.54ms
+INFO:root:Websocket served at time: Wed Oct 21 23:11:01 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.57ms
+INFO:root:Websocket served at time: Thu Oct 22 00:00:56 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Thu Oct 22 00:01:05 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.67ms
+INFO:root:Websocket served at time: Fri Oct 23 17:23:14 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 47.103.155.228: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.103.155.228) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.155.228) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (47.103.155.228) 0.61ms
+WARNING:tornado.access:404 GET /nmaplowercheck1603491223 (47.103.155.228) 0.59ms
+WARNING:tornado.access:404 GET /evox/about (47.103.155.228) 0.52ms
+WARNING:tornado.access:404 GET /HNAP1 (47.103.155.228) 0.55ms
+WARNING:tornado.access:400 GET / (47.103.155.228) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.155.228) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.226.161) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.83.111) 0.43ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+INFO:root:**********WebSocket closed**********
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py:1102> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1104, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 1106, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 139.224.136.79: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.60ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (139.224.136.79) 0.68ms
+WARNING:tornado.access:404 GET /nmaplowercheck1603853769 (139.224.136.79) 0.59ms
+WARNING:tornado.access:404 GET /evox/about (139.224.136.79) 0.59ms
+WARNING:tornado.access:404 GET /HNAP1 (139.224.136.79) 0.63ms
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (139.224.136.79) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.44) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.226.32) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.78ms
+INFO:root:Websocket served at time: Thu Oct 29 14:10:24 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.64ms
+INFO:root:Websocket served at time: Thu Oct 29 23:09:14 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 101.133.226.32: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.226.32) 0.58ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.226.32) 0.67ms
+WARNING:tornado.access:404 GET /nmaplowercheck1603995827 (101.133.226.32) 0.51ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.226.32) 0.59ms
+WARNING:tornado.access:404 GET /evox/about (101.133.226.32) 0.54ms
+WARNING:tornado.access:400 GET / (101.133.226.32) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.226.32) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.226.32) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.45.145) 0.43ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Fri Oct 30 13:31:55 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.58ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:11 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.56ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:12 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.51ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:13 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.49ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:14 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.54ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:15 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.45ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:16 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.70ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:17 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.60ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:18 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.61ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:19 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.47ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:20 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.82ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:22 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.47ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:22 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.62ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:23 2020
+INFO:tornado.access:101 GET / (123.185.9.45) 0.60ms
+INFO:root:Websocket served at time: Fri Oct 30 13:32:24 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.56ms
+INFO:root:Websocket served at time: Fri Oct 30 13:33:13 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Fri Oct 30 13:33:40 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.81ms
+INFO:root:Websocket served at time: Fri Oct 30 13:38:48 2020
+WARNING:tornado.access:400 GET / (101.132.119.255) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.224.19: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.224.19) 0.54ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1604071594 (101.133.224.19) 0.61ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.224.19) 0.58ms
+WARNING:tornado.access:404 GET /evox/about (101.133.224.19) 0.77ms
+WARNING:tornado.access:400 GET / (101.133.224.19) 0.54ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.224.19) 0.66ms
+WARNING:tornado.access:400 GET / (101.133.224.19) 0.70ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.19) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (47.103.150.184) 0.60ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.150.184) 0.53ms
+WARNING:tornado.access:404 GET /index.html (47.103.150.184) 0.58ms
+WARNING:tornado.access:404 GET /index.php (47.103.150.184) 0.57ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.150.184) 0.56ms
+WARNING:tornado.access:404 GET /admin/ (47.103.150.184) 0.58ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.150.184) 0.58ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.150.184) 0.53ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.150.184) 0.61ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.150.184) 0.48ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.150.184) 0.51ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.150.184) 0.47ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.150.184) 0.55ms
+WARNING:tornado.access:400 GET / (47.103.108.254) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.108.254) 0.48ms
+WARNING:tornado.access:404 GET /index.html (47.103.108.254) 0.50ms
+WARNING:tornado.access:404 GET /index.php (47.103.108.254) 0.56ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.108.254) 0.51ms
+WARNING:tornado.access:404 GET /admin/ (47.103.108.254) 0.48ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.108.254) 0.49ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.108.254) 0.51ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.108.254) 0.51ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.108.254) 0.54ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.108.254) 0.65ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.108.254) 0.49ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.108.254) 0.49ms
+WARNING:tornado.access:400 GET / (101.133.226.32) 0.60ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.158.114) 0.43ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /explicit_not_exist_path (47.103.158.114) 0.45ms
+WARNING:tornado.access:404 GET /index.html (47.103.158.114) 0.57ms
+WARNING:tornado.access:404 GET /index.php (47.103.158.114) 0.60ms
+WARNING:tornado.access:404 GET /index.jsp (47.103.158.114) 0.69ms
+WARNING:tornado.access:404 GET /admin/ (47.103.158.114) 0.52ms
+WARNING:tornado.access:404 GET /favicon.ico (47.103.158.114) 0.49ms
+WARNING:tornado.access:404 GET /robots.txt (47.103.158.114) 0.77ms
+WARNING:tornado.access:404 GET /r/cms/www/red/img/prompt.jpg (47.103.158.114) 0.51ms
+WARNING:tornado.access:404 GET /r/cms/www/red/style/swiper.min.js (47.103.158.114) 0.54ms
+WARNING:tornado.access:404 GET /wcm/ (47.103.158.114) 0.50ms
+WARNING:tornado.access:404 GET /phpMyAdmin/ (47.103.158.114) 0.51ms
+WARNING:tornado.access:404 GET /phpmyadmin/ (47.103.158.114) 0.52ms
+INFO:tornado.general:Malformed HTTP message from 47.102.184.30: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.102.184.30) 0.57ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (47.102.184.30) 0.61ms
+WARNING:tornado.access:404 GET /nmaplowercheck1604381851 (47.102.184.30) 0.54ms
+WARNING:tornado.access:404 GET /evox/about (47.102.184.30) 0.51ms
+WARNING:tornado.access:400 GET / (47.102.184.30) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /HNAP1 (47.102.184.30) 0.63ms
+WARNING:tornado.access:400 GET / (47.102.184.30) 0.57ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.102.184.30) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.131.45) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.155.170: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1604482613 (101.133.155.170) 0.69ms
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.41ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.155.170) 0.40ms
+WARNING:tornado.access:404 GET /evox/about (101.133.155.170) 0.54ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.155.170) 0.53ms
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.138.230) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Fri Nov  6 03:17:03 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.59ms
+INFO:root:Websocket served at time: Tue Nov 10 07:28:35 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.59ms
+INFO:root:Websocket served at time: Fri Nov 13 01:24:38 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 106.14.83.56: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1605260249 (106.14.83.56) 0.53ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.83.56) 0.52ms
+WARNING:tornado.access:404 GET /evox/about (106.14.83.56) 0.49ms
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (106.14.83.56) 0.54ms
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.40ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.148.169) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.135.162: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.135.162) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.135.162) 0.57ms
+WARNING:tornado.access:404 GET /nmaplowercheck1605368943 (101.133.135.162) 0.49ms
+WARNING:tornado.access:404 GET /evox/about (101.133.135.162) 0.49ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.135.162) 0.52ms
+WARNING:tornado.access:400 GET / (101.133.135.162) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.135.162) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.135.162) 0.42ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.74) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.136.80: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1605449299 (101.133.136.80) 0.54ms
+WARNING:tornado.access:404 GET /evox/about (101.133.136.80) 0.53ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.136.80) 0.56ms
+WARNING:tornado.access:404 POST /sdk (101.133.136.80) 0.86ms
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.72ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.54ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.136.80) 0.65ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.155.228) 0.47ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 106.14.47.169: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.47.169) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (106.14.47.169) 0.56ms
+WARNING:tornado.access:404 GET /nmaplowercheck1605534250 (106.14.47.169) 0.62ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.47.169) 0.57ms
+WARNING:tornado.access:400 GET / (106.14.47.169) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /evox/about (106.14.47.169) 0.57ms
+WARNING:tornado.access:400 GET / (106.14.47.169) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.47.169) 0.42ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.33.128) 0.49ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.140.205: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.140.205) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1605814985 (101.133.140.205) 0.52ms
+WARNING:tornado.access:404 GET /evox/about (101.133.140.205) 0.50ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.140.205) 0.49ms
+WARNING:tornado.access:400 GET / (101.133.140.205) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.140.205) 0.53ms
+WARNING:tornado.access:400 GET / (101.133.140.205) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.140.205) 0.42ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Fri Nov 20 06:24:11 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 47.101.72.8: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1605828691 (47.101.72.8) 0.56ms
+WARNING:tornado.access:404 GET /evox/about (47.101.72.8) 0.60ms
+WARNING:tornado.access:404 GET /HNAP1 (47.101.72.8) 0.49ms
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (47.101.72.8) 0.59ms
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.101.72.8) 0.37ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.140.205) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.147.20: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.147.20) 0.75ms
+WARNING:tornado.access:404 GET /nmaplowercheck1605925634 (101.133.147.20) 0.54ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.147.20) 0.48ms
+WARNING:tornado.access:404 GET /evox/about (101.133.147.20) 0.46ms
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.147.20) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.135.162) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 47.103.98.159: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (47.103.98.159) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1605983602 (47.103.98.159) 0.53ms
+WARNING:tornado.access:404 GET /HNAP1 (47.103.98.159) 0.54ms
+WARNING:tornado.access:404 POST /sdk (47.103.98.159) 0.60ms
+WARNING:tornado.access:404 GET /evox/about (47.103.98.159) 0.48ms
+WARNING:tornado.access:400 GET / (47.103.98.159) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.98.159) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.98.159) 0.37ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.99.182) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.54ms
+INFO:root:Websocket served at time: Thu Nov 26 23:36:44 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Fri Dec  4 03:50:33 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 101.133.131.45: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.131.45) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.131.45) 0.63ms
+WARNING:tornado.access:404 GET /nmaplowercheck1607074475 (101.133.131.45) 0.49ms
+WARNING:tornado.access:404 GET /evox/about (101.133.131.45) 0.51ms
+WARNING:tornado.access:400 GET / (101.133.131.45) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /HNAP1 (101.133.131.45) 0.48ms
+WARNING:tornado.access:400 GET / (101.133.131.45) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.131.45) 0.40ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (47.103.98.159) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 106.14.83.56: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.74ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.53ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1607345539 (106.14.83.56) 0.60ms
+WARNING:tornado.access:404 POST /sdk (106.14.83.56) 0.65ms
+WARNING:tornado.access:404 GET /HNAP1 (106.14.83.56) 0.55ms
+WARNING:tornado.access:404 GET /evox/about (106.14.83.56) 0.54ms
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.50ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (106.14.83.56) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Tue Dec  8 10:19:46 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.59ms
+INFO:root:Websocket served at time: Tue Dec  8 10:27:55 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.56ms
+INFO:root:Websocket served at time: Tue Dec  8 10:28:58 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 10:32:10 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 5.85ms
+INFO:root:Websocket served at time: Tue Dec  8 11:11:47 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 11:15:24 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:20:57 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.55ms
+INFO:root:Websocket served at time: Tue Dec  8 11:22:20 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 11:24:05 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.59ms
+INFO:root:Websocket served at time: Tue Dec  8 11:26:01 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:26:26 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.56ms
+INFO:root:Websocket served at time: Tue Dec  8 11:27:07 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Tue Dec  8 11:28:11 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Tue Dec  8 11:33:38 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.65ms
+INFO:root:Websocket served at time: Tue Dec  8 11:39:53 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:40:34 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:41:32 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:43:02 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:44:00 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.67ms
+INFO:root:Websocket served at time: Tue Dec  8 11:45:20 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 11:46:05 2020
+INFO:root:**********WebSocket closed**********
+WARNING:tornado.access:400 GET / (47.103.33.128) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 11:56:32 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.62ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:05 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.69ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:08 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.67ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:09 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:11 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:13 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.69ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:21 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 11:57:23 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 19:49:56 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.61ms
+INFO:root:Websocket served at time: Tue Dec  8 19:50:01 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.63ms
+INFO:root:Websocket served at time: Tue Dec  8 19:50:07 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.58ms
+INFO:root:Websocket served at time: Tue Dec  8 19:50:10 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.63ms
+INFO:root:Websocket served at time: Tue Dec  8 19:50:27 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.general:Malformed HTTP message from 101.133.155.170: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.56ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1607439691 (101.133.155.170) 0.52ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.155.170) 0.54ms
+WARNING:tornado.access:404 GET /evox/about (101.133.155.170) 0.54ms
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.48ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.155.170) 0.54ms
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.44ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.224.44) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.general:Malformed HTTP message from 101.133.155.170: Malformed HTTP request line
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.55ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 POST /sdk (101.133.155.170) 0.62ms
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.46ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:404 GET /nmaplowercheck1607559395 (101.133.155.170) 0.51ms
+WARNING:tornado.access:404 GET /evox/about (101.133.155.170) 0.51ms
+WARNING:tornado.access:404 GET /HNAP1 (101.133.155.170) 0.50ms
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.51ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.41ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+WARNING:tornado.access:400 GET / (101.133.155.170) 0.45ms
+DEBUG:tornado.general:Can "Upgrade" only to "WebSocket".
+INFO:tornado.access:101 GET / (127.0.0.1) 0.62ms
+INFO:root:Websocket served at time: Thu Dec 10 16:57:50 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.154.0) 0.63ms
+INFO:root:Websocket served at time: Thu Dec 10 17:07:48 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (219.217.154.0) 0.50ms
+INFO:root:Websocket served at time: Thu Dec 10 17:08:11 2020
+ERROR:tornado.application:Uncaught exception GET / (219.217.154.0)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.154.0')
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 36, in on_message
+    result_dict = rh.outhash(data_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/rhandler.py", line 75, in outhash
+    result_dict[para] = conn.hget(start_time, serial_number + '_' + para).decode()
+NameError: name 'strat_time' is not defined
+INFO:root:**********WebSocket closed**********
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.154.0) 0.64ms
+INFO:root:Websocket served at time: Thu Dec 10 17:12:41 2020
+ERROR:tornado.application:Uncaught exception GET / (219.217.154.0)
+HTTPServerRequest(protocol='http', host='39.100.5.176:30110', method='GET', uri='/', version='HTTP/1.1', remote_ip='219.217.154.0')
+Traceback (most recent call last):
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/websocket.py", line 649, in _run_callback
+    result = callback(*args, **kwargs)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/websocket_server.py", line 40, in on_message
+    result_dict = data_magic(result_dict)
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/simu_data.py", line 10, in data_magic
+    data_dict['voltage_AB'] = create_data(data_dict['voltage_AB'])
+  File "/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/simu_data.py", line 5, in create_data
+    sum_list[1] = str(round(random.random()*10, 2)+555)
+TypeError: 'str' object does not support item assignment
+INFO:root:**********WebSocket closed**********
+DEBUG:asyncio:Using selector: EpollSelector
+INFO:tornado.access:101 GET / (219.217.154.0) 0.59ms
+INFO:root:Websocket served at time: Thu Dec 10 17:13:54 2020
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.56ms
+INFO:root:Websocket served at time: Thu Dec 10 18:02:20 2020
+INFO:tornado.access:101 GET / (42.249.16.70) 0.53ms
+INFO:root:Websocket served at time: Thu Dec 10 18:02:33 2020
+INFO:tornado.access:101 GET / (42.249.16.70) 0.49ms
+INFO:root:Websocket served at time: Thu Dec 10 18:02:34 2020
+INFO:tornado.access:101 GET / (42.249.16.70) 0.51ms
+INFO:root:Websocket served at time: Thu Dec 10 18:02:35 2020
+INFO:tornado.access:101 GET / (42.249.16.70) 0.52ms
+INFO:root:Websocket served at time: Thu Dec 10 18:02:36 2020
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:root:**********WebSocket closed**********
+INFO:tornado.access:101 GET / (127.0.0.1) 0.57ms
+INFO:root:Websocket served at time: Thu Dec 10 18:02:54 2020
+INFO:tornado.access:101 GET / (127.0.0.1) 0.60ms
+INFO:root:Websocket served at time: Thu Dec 10 18:03:43 2020

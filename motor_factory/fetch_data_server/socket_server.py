@@ -10,6 +10,7 @@ from fetch_data import Hunter
 from rhandler import RedisHandler
 import logging
 import time
+import struct
 from simu_data import data_magic
 
 logging.basicConfig(filename='/home/Chunar/codes/Monitor_pi/motor_factory/fetch_data_server/socket.log', level=logging.DEBUG)
@@ -47,7 +48,7 @@ class DataServer(TCPServer):
 					# result_dict = data_magic(result_dict)
 					data_send = json.dumps(result_dict)
 					
-					yield stream.write(data_send.encode())
+					yield stream.write(struct.pack('i',len(data_send))+data_send.encode())
 				except KeyError:
 					logging.info('** Data Error **')
 

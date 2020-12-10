@@ -45,9 +45,9 @@ class DataServer(TCPServer):
 					motor = Motor()
 					rh = RedisHandler()
 					# Insert data into redis and mysql
-					rh.inhash(data_dict)
+					# rh.inhash(data_dict.copy())
 					motor.insert_data(data_dict)
-					# logging.info('Inserted successfully')
+					logging.info('Inserted successfully')
 				except KeyError:
 					logging.error('** Data Error **')
 

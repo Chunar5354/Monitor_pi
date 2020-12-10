@@ -1,1 +1,13 @@
 python3: can't open file '/home/codes/Monitor_pi/motor_f/socserver_test.py': [Errno 2] No such file or directory
+11111
+run
+Traceback (most recent call last):
+  File "old_motor_server.py", line 91, in <module>
+    main(host, port)
+  File "old_motor_server.py", line 82, in main
+    wsgi_server.run()
+  File "old_motor_server.py", line 71, in run
+    conn, addr = self.server.accept()
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/socket.py", line 212, in accept
+    fd, addr = self._accept()
+KeyboardInterrupt

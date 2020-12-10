@@ -37,7 +37,7 @@ class EchoWebSocket(tornado.websocket.WebSocketHandler):
 		if not result_dict:
 			result_dict = ht.get_data(data_dict) 
 		# if need to change voltage data, use the statement below
-		result_dict = data_magic(result_dict)
+		# result_dict = data_magic(result_dict)
 		data_send = json.dumps(result_dict)  # translate into str to send
 
 		self.write_message(data_send)

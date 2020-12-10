@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "upload_data_server/upload_server.py", line 63, in <module>
+    sockets = bind_sockets(30102)
+  File "/home/Chunar/anaconda3/envs/chunar/lib/python3.7/site-packages/tornado/netutil.py", line 174, in bind_sockets
+    sock.bind(sockaddr)
+OSError: [Errno 98] Address already in use
